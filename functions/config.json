@@ -1,0 +1,19 @@
+{
+	"app_name": "Rusba Rides",
+	"app_description": "The Future of Urban Mobility in Nigeria",
+	"app_identifier": "com.rusbadigitalsolutions.rusbarides",
+	"ios_app_version": "1.0.0",
+	"android_app_version": "100",
+	"firebaseProjectId": "rusba-rides-d871e",
+	"googleApiKeys": {
+		"ios": "AIzaSyAgtG1Xa0k9949HZN7hsTdnPkv3_bCsSYM",
+		"android": "AIzaSyDAKjotXy0MhMpx5ZVtXeDlB1OrwqVU9KM",
+		"web": "AIzaSyCcfBwby-AY5f390svKMR3x3d6LT5Rpggk",
+		"server": "AIzaSyCcfBwby-AY5f390svKMR3x3d6LT5Rpggk"
+	},
+	"expo_owner": "rusbadev",
+	"expo_slug": "rusba-rides",
+	"expo_project_id": "f4a07376-bdc6-413d-9150-8d4e2b89ae55",
+	"admin_email": "admin@rusbadsl.com.ng",
+	"purchase_code": "b706713c-ccfb-4b96-9dd0-9bae38671fe1"
+}
